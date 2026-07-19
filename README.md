@@ -14,9 +14,8 @@
 **Projects**
 
 - [**cpa-study-tracker**](https://github.com/beomjunlee0427/cpa-study-tracker) — CPA 시험 준비용 학습 웹앱. 통학 시간 활용을 위해 Streamlit으로 직접 개발, 850여 개 문항 관리 및 개인별 회독 추적 기능 구현
-- [**python-algorithm**](https://github.com/beomjunlee0427/python-algorithm) — Python 알고리즘 풀이 저장소
 - [**phishing-url-detection**](https://github.com/beomjunlee0427/phishing-url-detection) — 보안데이터분석 팀 프로젝트. Random Forest 모델 학습·하이퍼파라미터 튜닝·SHAP 해석 담당, 베이스라인 모델의 100% 정확도를 의심해 데이터 누수를 찾아낸 과정 정리
-
+- [**python-algorithm**](https://github.com/beomjunlee0427/python-algorithm) — Python 알고리즘 풀이 저장소
 ---
 
 📍 Seoul, South Korea
