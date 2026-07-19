@@ -4,7 +4,7 @@
 
 ### 💡 Core Competency
 - **Domain Knowledge:** CPA 2차 세무회계·세무관리·회계감사 과목 합격 
-- **Risk Analysis:** 데이터 누수 탐지, 이상 거래 및 리스크 분석 (Forensic)
+- **Risk Analysis:** 데이터 누수 탐지, 이상 거래 및 리스크 분석
 - **Process Automation:** Python을 활용한 반복 업무 자동화 및 툴(App) 자체 개발
 
 ### 🛠️ Tech Stack
