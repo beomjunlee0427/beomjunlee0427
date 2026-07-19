@@ -1,12 +1,15 @@
-### Beomjun Lee
+# 📊 Beomjun Lee | Accounting x Data
 
-재무·회계 직무를 준비하며, 숫자를 다루는 일에 데이터 분석 도구를 더해 실질적인 문제를 해결하는 데 관심이 있습니다.
+재무·회계 직무를 준비하며, 숫자를 다루는 일에 **데이터 분석 및 자동화 도구**를 더해 실질적인 비즈니스 문제를 해결하는 데 관심이 있습니다. 
 
-- 🎓 CPA 2차 재무회계·재무관리·회계감사 과목합격
-- 🔍 관심 분야: 재무 데이터 분석, 자동화, 머신러닝 기초
-- 🛠 최근에는 Python으로 직접 문제를 정의하고 도구를 만드는 작업을 하고 있습니다
+### 💡 Core Competency
+- **Domain Knowledge:** CPA 2차 세무회계·세무관리·회계감사 과목 합격 
+- **Risk Analysis:** 데이터 누수 탐지, 이상 거래 및 리스크 분석 (Forensic)
+- **Process Automation:** Python을 활용한 반복 업무 자동화 및 툴(App) 자체 개발
 
----
+### 🛠️ Tech Stack
+<!-- 아래 배지는 shields.io를 활용한 예시입니다 -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 
 **Projects**
 
